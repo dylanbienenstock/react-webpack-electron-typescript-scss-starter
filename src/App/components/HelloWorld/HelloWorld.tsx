@@ -13,6 +13,7 @@ export class HelloWorld extends Component {
             <div styleName="HelloWorld">
                 <div styleName="card">
                     <div>React</div>
+                    <div>+ Webpack</div>
                     <div>+ Electron</div>
                     <div>+ TypeScript</div>
                     <div>+ Modular SCSS</div>
