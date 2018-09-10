@@ -1,0 +1,15 @@
+.HelloWorld {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    .card {
+        background-color: white;
+        padding: 12px;
+        border-radius: 6px;
+        box-shadow: 0 7px 20px rgba(black, 0.2);
+        font-family: "Helvetica", sans-serif;
+        white-space: pre-line;
+    }
+}   
